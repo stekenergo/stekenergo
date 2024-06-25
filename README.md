@@ -5,7 +5,7 @@
 ## Контакты
 <h3 align="center">
     <a href="https://t.me/stekenergo">
-        <img src="https://img.shields.io/badge/Telegram:_-@stekenergo">
+        <img src="https://img.shields.io/badge/Telegram:_-stekenergo-Green">
     </a>
     <a href="mailto:stek_energo@mail.ru">
         <img src="https://img.shields.io/badge/Mail:_-stek_energo@mail.ru-Green">
@@ -55,9 +55,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=stekenergo)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 [![](https://visitcount.itsvg.in/api?id=stekenergo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
+---
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
+---
