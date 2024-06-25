@@ -3,7 +3,14 @@
 ## Привет! Я начинающий Python-разработчик. Я выбрал Python за его простой и интуитивно понятный синтаксис, который позволяет быстро создавать эффективные решения. Обширная стандартная библиотека и активное сообщество обеспечивают множество готовых инструментов и поддержку, что ускоряет разработку и решение сложных задач. Кроме того этот язык программирования используется для написания искусственного интеллекта, что даёт перспективы развития в будущем.
 
 ## Контакты
-<h3 align="center">![<img src="https://img.shields.io/badge/Telegram:_-@stekenergo">](https://t.me/stekenergo) ![<img src="https://img.shields.io/badge/Mail:_-stek_energo@mail.ru-Green">](<a href="mailto:admin@hipolink.net"></a>)</h3>
+<h3 align="center">
+    <a href="https://t.me/stekenergo">
+        <img src="https://img.shields.io/badge/Telegram:_-@stekenergo">
+    </a>
+    <a href="mailto:stek_energo@mail.ru">
+        <img src="https://img.shields.io/badge/Mail:_-stek_energo@mail.ru-Green">
+    </a>
+</h3>
 
 ## Применяемые технологии
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -48,3 +55,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=stekenergo)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 [![](https://visitcount.itsvg.in/api?id=stekenergo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
