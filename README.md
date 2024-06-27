@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Mail:_-stek_energo@mail.ru-Green">
     </a>
 </h3>
----
+
 ## Применяемые технологии
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -44,7 +44,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Базы данных](https://img.shields.io/badge/Базы_данных-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
----
+
 ## Статистика активности
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stekenergo&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stekenergo&theme=dark)
