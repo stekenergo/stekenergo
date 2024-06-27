@@ -1,7 +1,7 @@
 [![Header](https://github.com/stekenergo/stekenergo/blob/main/assets/header.png)](https://t.me/stekenergo)
-
-## Привет! Я начинающий Python-разработчик. Я выбрал Python за его простой и интуитивно понятный синтаксис, который позволяет быстро создавать эффективные решения. Обширная стандартная библиотека и активное сообщество обеспечивают множество готовых инструментов и поддержку, что ускоряет разработку и решение сложных задач. Кроме того этот язык программирования используется для написания искусственного интеллекта, что даёт перспективы развития в будущем.
-
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F758&vCenter=true&width=800&lines=Привет!+Я+начинающий+Python-разработчик.;Я+выбрал+Python+за+его+простой+и+интуитивно+понятный+синтаксис,+который+позволяет+быстро+создавать+эффективные+решения.;Обширная+стандартная+библиотека+и+активное+сообщество+обеспечивают+множество+готовых+инструментов+и+поддержку,+что+ускоряет+разработку+и+решение+сложных+задач.;Кроме+того,+этот+язык+программирования+используется+для+написания+искусственного+интеллекта,+что+даёт+перспективы+развития+в+будущем.)](https://git.io/typing-svg)
+---
 ## Контакты
 <h3 align="center">
     <a href="https://t.me/stekenergo">
@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Mail:_-stek_energo@mail.ru-Green">
     </a>
 </h3>
-
+---
 ## Применяемые технологии
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -44,7 +44,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Базы данных](https://img.shields.io/badge/Базы_данных-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
-
+---
 ## Статистика активности
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stekenergo&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stekenergo&theme=dark)
