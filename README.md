@@ -5,7 +5,7 @@
 ## Контакты
 <h3 align="center">
     <a href="https://t.me/stekenergo">
-        <img src="https://img.shields.io/badge/Telegram:_-stekenergo-Green">
+        <img src="https://img.shields.io/badge/Telegram:_-@stekenergo-Green">
     </a>
     <a href="mailto:stek_energo@mail.ru">
         <img src="https://img.shields.io/badge/Mail:_-stek_energo@mail.ru-Green">
