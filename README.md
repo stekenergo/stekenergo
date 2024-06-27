@@ -54,7 +54,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stekenergo&theme=dark&locale=ru)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=stekenergo)](https://github.com/ryo-ma/github-profile-trophy)
 ---
-[![](https://visitcount.itsvg.in/api?id=stekenergo&icon=247&color=263)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=stekenergo&color=228b22)
 ---
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
